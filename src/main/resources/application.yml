@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+diffapp:
+  repository:
+    inmemory: true
+  diff:
+    session:
+      timeoutMs: 120000
